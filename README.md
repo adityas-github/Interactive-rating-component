@@ -47,5 +47,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Aditya M](https://www.your-site.com)
-- Frontend Mentor - [@adityasgithub](https://www.frontendmentor.io/profile/yourusername)
+- Website - [Aditya M](https://github.com/adityas-github)
+- Frontend Mentor - [@adityasgithub](https://www.frontendmentor.io/profile/adityas-github)
