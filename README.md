@@ -25,13 +25,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot1.png)
-![](./screenshot2.png)
+![](./images/screenshot1.png)
+![](./images/screenshot2.png)
 
 ### Links
 
-- Solution URL: [Github Link](https://your-solution-url.com)
-- Live Site URL: [Netlify Link](https://your-live-site-url.com)
+- Solution URL: [Github Link](https://github.com/adityas-github/Interactive-rating-component.git)
+- Live Site URL: [Netlify Link](https://interactive-rating-adi.netlify.app/)
 
 ## My process
 
